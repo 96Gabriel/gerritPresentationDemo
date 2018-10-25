@@ -1,0 +1,5 @@
+This is the file to be showed in the practical presentation of gerrit.
+
+It is a simple java app that gets two numbers given by the user and divides them.
+However, if the user inputs an denominator equal to 0, the output of the division result will display "Infinity", which shall not happen.
+So, we should put the denominator expressions inside a do while loop, which will execute these expressions over and over again while  the denominator is equal to 0.
